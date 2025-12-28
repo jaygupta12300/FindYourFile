@@ -1,6 +1,6 @@
 # 🔍 FindYourFile
 
-**FindYourFile** is a simple Java-based utility that searches through all directories inside a specified parent folder to locate files whose names contain a keyword you provide and returns the **full path** for each match. ([GitHub][1])
+**FindYourFile** is a simple Java-based utility that searches through all directories inside a specified parent folder to locate files whose names contain a keyword you provide and returns the **full path** for each match.
 
 This tool is especially useful when you have large folder structures and need to quickly locate specific files without manually browsing through each directory.
 
