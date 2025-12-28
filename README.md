@@ -92,7 +92,7 @@ jar cvfm findfile.jar Manifest.txt -C bin .
 You can add screenshots to the `/images` directory (for example, `Capture.PNG`) and embed them here:
 
 ```md
-[![FindYourFile Search](images/Capture.PNG)](https://github.com/jaygupta12300/FindYourFile/blob/master/Capture.PNG)
+https://github.com/jaygupta12300/FindYourFile/blob/master/Capture.PNG
 ```
 
 ---
